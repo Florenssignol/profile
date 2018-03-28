@@ -1,0 +1,110 @@
+body {
+  background-color: #dddddd; 
+  font-family: 'Verdana';
+  font-size: 15px;
+  color: #84828F;
+  font-family: 'Quicksand', sans serif;
+  line-height: 1,6em;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+h1 { color: #DB5461;
+  font-family: 'Raleway', sans serif;
+}
+
+h2 { color: #EF7A85;
+  font-family: 'Raleway', sans serif;
+  text-shadow: 2px 2px 2px #cca5ab;
+}
+
+h3 { color: #C19CA2;
+  font-family: 'Quicksand', sans serif;
+  font-size: 20px;
+  -webkit-margin-after: 1px;
+  text-shadow: 2px 2px 2px #cca5ab;
+}
+
+a {
+  color: #6D6B76;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #cbcace;
+}
+
+.container {
+  width: 500px;
+  margin: 30px auto;
+}
+
+.card {
+  background: #f9f9f9;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.2);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  list-style-type: disc;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+#img-profile {
+  width: 150px;
+  height: 150px;
+  border: 2px solid #dddddd;
+}
+
+.text-justify {
+  text-align: center;
+  margin-left: 10px;
+}
+
+.social-card {
+  background : linear-gradient(to pink, blue)
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0,0,0,0.2);
+}
+
+.tiny-button {
+  background-color: #f2dcdf;
+  opacity: 0.6;
+  color: #b79298;
+  font-weight: 200;
+  padding: 5px;
+  border-radius: 4px;
+  width: 200px;
+  height: 100px;
+}
+
+#img-countries {
+  width: 215px;
+  height: 150px;
+  margin-top: 25px;
+}
+
+table h3 {
+  margin-top: 1px;
+}
+
